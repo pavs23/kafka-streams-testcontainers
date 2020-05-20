@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.kafka:connect-json:2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/connect-json/2.4.0/5f32636460b1d08bb6ad427ee5556285528dc9be/connect-json-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/connect-json/2.4.0/37a04f74a576bb02d31be66afd0632ab1a6ebe74/connect-json-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

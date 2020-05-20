@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-streams-testcontainers.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-streams-testcontainers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-streams-testcontainers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-streams-testcontainers_main.iml" group="kafka-streams-testcontainers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-streams-testcontainers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-streams-testcontainers_test.iml" group="kafka-streams-testcontainers" />
+    </modules>
+  </component>
+</project>
